@@ -5,7 +5,7 @@
 
 ### It's really simple, The software has 4 Buttons
 # Add
-In the first textbox, you insert the Nickname of the people who bought you the Carry, then in the second textbox you insert how many times he paid to get Carryed
+##### In the first textbox, you insert the Nickname of the people who bought you the Carry, then in the second textbox you insert how many times he paid to get Carryed
 # Remove
 # Clear
 # Lap
