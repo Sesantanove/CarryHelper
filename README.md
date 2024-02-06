@@ -13,6 +13,10 @@
 
 ## Remove
 ##### In the first textbox, you insert the Nickname of the people who asked you for a refund and then press the orange "Remove" button and it's done, The player got removed from the list
+![image](https://github.com/Sesantanove/CarryHelper/assets/117443414/9cbe8c5d-fb31-4a53-9d59-420f5a5316b9)
+![image](https://github.com/Sesantanove/CarryHelper/assets/117443414/b923c903-432e-4af3-bd9a-dde2b92317a7)
+![image](https://github.com/Sesantanove/CarryHelper/assets/117443414/1fef1554-be7c-419c-8e21-411964eb15cb)
+
 ## Clear
 ##### This button is straightforward, it just clears the list and textboxes, useful when you want to clear the list if you want to
 ## Lap
