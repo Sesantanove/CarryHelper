@@ -23,3 +23,7 @@
 
 ## Lap
 ##### You may ask what does Lap do? it's really straightforward, removes 1 Carry from every player, very beneficial when you completed a carry and need to remove from everyone's balance 1 Carry
+![image](https://github.com/Sesantanove/CarryHelper/assets/117443414/5193124b-20a1-41ff-acc9-b03f45875be0)
+![image](https://github.com/Sesantanove/CarryHelper/assets/117443414/48a62fc3-3715-47cf-bc95-62207da7459c)
+
+
