@@ -19,5 +19,7 @@
 
 ## Clear
 ##### This button is straightforward, it just clears the list and textboxes, useful when you want to clear the list if you want to
+![image](https://github.com/Sesantanove/CarryHelper/assets/117443414/6380894e-06cd-4cda-9afd-5fc805528b2f)
+
 ## Lap
 ##### You may ask what does Lap do? it's really straightforward, removes 1 Carry from every player, very beneficial when you completed a carry and need to remove from everyone's balance 1 Carry
