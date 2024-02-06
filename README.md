@@ -8,6 +8,9 @@
 ### It's really simple, The software has 4 Buttons
 ## Add
 ##### In the first textbox, you insert the Nickname of the person who bought you the Carry, then in the second textbox you insert how many times he paid to get Carryed click the green "Add" button and it's done, the player is added to the list.
+![image](https://github.com/Sesantanove/CarryHelper/assets/117443414/0a8eb95e-c64f-45b0-9e01-935b06ffc268)
+![image](https://github.com/Sesantanove/CarryHelper/assets/117443414/3cf49783-5ef2-41b1-9865-b1213036d95e)
+
 ## Remove
 ##### In the first textbox, you insert the Nickname of the people who asked you for a refund and then press the orange "Remove" button and it's done, The player got removed from the list
 ## Clear
