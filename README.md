@@ -1,3 +1,6 @@
+# BEFORE USING READ THIS [FALSE POSITIVES](https://github.com/Sesantanove/CarryHelper/issues/1)
+### Since I don't want you to get mad at me if you install this Software and then look at Virus Total and say that this is a Rat or Malware READ the issue from top to bottom before installing!
+### I DON'T WANT ANYONE COMMENTING THIS IS A VIRUS/MALWARE SINCE IT ISN'T (I Dropped SRC, VT Admin response, Dropped isthisarat response) AND STILL TRYING TO FIX THIS ISSUE WITH AV COMPANIES
 # Carry Helper
 ## Tired of using your brain to count how many times you have to carry a party? This is the solution
 
